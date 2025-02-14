@@ -1,0 +1,23 @@
+{
+  "name": "derivadash-backend",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcavalcantes/derivadash-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcavalcantes/derivadash-backend/issues"
+  },
+  "homepage": "https://github.com/mcavalcantes/derivadash-backend#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "sqlite3": "^5.1.7"
+  }
+}
