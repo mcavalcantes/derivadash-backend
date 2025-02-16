@@ -24,7 +24,7 @@ app.get("/api", (req, res) => {
             answers: rows,
           };
 
-          res.json(payload);
+          res.send(payload);
         });
       });
     });
